@@ -18,12 +18,12 @@
 
 **Lab Session:** 01  
 **Submission Date:** October 20, 2024  
-**Course Code:** ECE 3113  
+**Course Code:** ECE 3118  
 
 ---
 
 **Submitted to:**  
-**Instructor:** Oishi Joyti  
+**Instructor:** Oishi Jyoti  
 **Position:** Assistant Professor   
 **Department:** Electrical & Computer Engineering (ECE), RUET  
 
