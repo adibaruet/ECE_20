@@ -23,7 +23,7 @@
 ---
 
 **Submitted to:**  
-**Instructor:** Oishi Joyti  
+**Instructor:** Oishi Jyoti  
 **Position:** Assistant Professor   
 **Department:** Electrical & Computer Engineering (ECE), RUET  
 
