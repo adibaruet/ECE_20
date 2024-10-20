@@ -23,7 +23,7 @@
 
 **Submission Date:** October 20, 2024  
 
-**Course Code:** ECE 3113  
+**Course Code:** ECE 3118  
 
 **Department:** Electrical & Computer Engineering (ECE)  
 **University:** Rajshahi University of Engineering & Technology (RUET)  
@@ -31,7 +31,7 @@
 ---
 
 **Submitted To:**  
-**Instructor:** Oishi Joyti  
+**Instructor:** Oishi Jyoti  
 **Position:** Assistant Professor   
 **Department:** Electrical & Computer Engineering (ECE)  
 **University:** Rajshahi University of Engineering & Technology (RUET)
