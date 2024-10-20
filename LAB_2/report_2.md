@@ -30,7 +30,7 @@
 ---
 
 **Submitted To:**  
-**Instructor:** Oishi Joyti  
+**Instructor:** Oishi Jyoti  
 **Position:** Assistant Professor   
 **Department:** Electrical & Computer Engineering (ECE)  
 **University:** Rajshahi University of Engineering & Technology (RUET)
